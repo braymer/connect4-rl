@@ -1,0 +1,1 @@
+from gym_connect4rl.envs.connect4rl_env import connect4rlEnv
